@@ -1,1 +1,1 @@
-# genel-bot
+# kralmaq
