@@ -5,9 +5,9 @@
   "name": "hello-express",
   "version": "0.0.1",
   "description": "A simple Node app built on Express, instantly up and running.",
-  "main": "phentos.js",
+  "main": "abey.js",
   "scripts": {
-    "start": "node phentos.js"
+    "start": "node abey.js"
   },
   "dependencies": {
     "discord.js": "^12.5.1",
